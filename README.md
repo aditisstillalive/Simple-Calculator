@@ -1,3 +1,5 @@
+# To test commit and push
+
 # Simple Calculator
 <img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80">
 
